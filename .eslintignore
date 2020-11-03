@@ -1,0 +1,15 @@
+# build files
+build/*
+
+# Each setting files
+webpack.config.js
+babel.config.js
+.eslintrc.js
+prettier.config.js
+jest.config.js
+
+# Transformer for jest
+jest/*
+
+# Test files
+tests/*
